@@ -120,7 +120,7 @@ console.log(sinisterSix("Kraven The Hunter" , "Bronx Zoo" , "releasing and hunti
 function hero(secret , city , affiliation , archNemesis , catchphrase){
 return "Secret identity: " + secret + " city: " + city + " affiliation: " + affiliation + " arch nemesis: " + archNemesis + " catch phrases: " + catchphrase;
 };
-// // Step 3: Idenitfy the inputs and add them as parameters.
+// // Step 3: Idenitfy the inputs and add them as parameters.a
  console.log(hero("T'Challa" , "Wakanda", "Avengers" , "Killmonger", "Wakanda Forever"));
  console.log(hero("Bruce Wayne" , "Gotham Cty", "Justice League" , "Joker", "I am vengeance, I am the night, I am Batman"));
 // // Setp 4: Add the function's logic to return the a super hero object. 
